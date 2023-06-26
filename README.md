@@ -42,9 +42,9 @@ O projeto possui a seguinte estrutura de diretórios:
 📁 components: Componentes React reutilizáveis.
 📁 pages: Páginas principais do sistema.
 📁 utils: Funções auxiliares e utilitários.
-📄 App.js: Componente principal do aplicativo.
-📄 index.js: Ponto de entrada do aplicativo.
-📁 public: Contém arquivos estáticos, como o arquivo HTML principal.
+📄 App.jsx: Componente principal do aplicativo.
+📄 index.html: Ponto de entrada do aplicativo.
+📁 public: Contém arquivos estáticos.
 
 Contribuindo
 Sinta-se à vontade para contribuir com melhorias para este projeto. Se você encontrar algum problema ou tiver sugestões, por favor, abra uma issue no repositório.
