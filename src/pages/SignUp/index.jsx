@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { Input } from "../../components/input";
 import { FiUser, FiMail, FiLock } from "react-icons/fi";
 
-import { api } from "../../../../Backend/Api/src/services/api";
+import { api } from "../../services/api";
 
 import { Button } from "../../components/Button";
 
